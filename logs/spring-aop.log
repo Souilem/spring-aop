@@ -1,0 +1,17 @@
+2023-06-19 05:08:52,171 INFO o.s.b.StartupInfoLogger [restartedMain] Starting SpringAopApplication using Java 17.0.4.1 with PID 6313 (/Applications/mywork/workspace-spring-tool-suite-4-4.15.3.RELEASE/Spring-aop/target/classes started by dnaprodudction in /Applications/mywork/workspace-spring-tool-suite-4-4.15.3.RELEASE/Spring-aop)
+2023-06-19 05:08:52,171 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-19 05:08:52,171 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-06-19 05:08:52,496 INFO o.s.b.StartupInfoLogger [restartedMain] Started SpringAopApplication in 0.34 seconds (process running for 355.012)
+2023-06-19 05:09:12,140 INFO o.s.b.StartupInfoLogger [restartedMain] Starting SpringAopApplication using Java 17.0.4.1 with PID 6313 (/Applications/mywork/workspace-spring-tool-suite-4-4.15.3.RELEASE/Spring-aop/target/classes started by dnaprodudction in /Applications/mywork/workspace-spring-tool-suite-4-4.15.3.RELEASE/Spring-aop)
+2023-06-19 05:09:12,140 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-19 05:09:12,140 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-06-19 05:09:12,467 INFO o.s.b.StartupInfoLogger [restartedMain] Started SpringAopApplication in 0.341 seconds (process running for 374.983)
+2023-06-19 05:09:24,705 INFO c.d.c.a.LoggingAspect [http-nio-8080-exec-2] Executing method processRequest in class ExampleController
+2023-06-19 05:09:24,706 INFO c.d.c.a.TransactionAspect [http-nio-8080-exec-2] Begin transcation
+2023-06-19 05:09:24,706 INFO c.d.c.ExampleController [http-nio-8080-exec-2] Example process request
+2023-06-19 05:09:24,706 INFO c.d.c.a.LoggingAspect [http-nio-8080-exec-2] Method processRequest executed in 0ms
+2023-06-19 05:09:24,707 INFO c.d.c.a.LoggingAspect [http-nio-8080-exec-2] Method processRequest executed in 1 ms
+2023-06-19 05:09:40,429 INFO c.d.c.a.LoggingAspect [http-nio-8080-exec-3] Executing method exampleEndpoint in class ExampleController
+2023-06-19 05:09:40,430 INFO c.d.c.ExampleController [http-nio-8080-exec-3] Example log statement
+2023-06-19 05:09:40,430 INFO c.d.c.a.LoggingAspect [http-nio-8080-exec-3] Method exampleEndpoint executed in 0ms
+2023-06-19 05:09:40,431 INFO c.d.c.a.LoggingAspect [http-nio-8080-exec-3] Method exampleEndpoint executed in 0 ms
